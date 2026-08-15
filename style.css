@@ -1,0 +1,9 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.titulo{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
