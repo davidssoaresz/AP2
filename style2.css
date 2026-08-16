@@ -79,5 +79,28 @@
     }
 }
 
+.alunos{
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 200px;
+}
+
+.perfil{
+    gap: 20px;
+    width: fit-content;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 2px 20px;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    img{
+        width: 60px;
+        border-radius: 30px;
+    }
+}
 
 
