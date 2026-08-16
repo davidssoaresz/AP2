@@ -1,19 +1,16 @@
 * {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Poppins";
 }
 
 .formatacao {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Poppins";
   background-color: white;
 }
 
 .menu {
-  li,
-  a,
-  button {
+  li, a, button {
     font-size: 18px;
     color: white;
     text-decoration: none;
@@ -94,6 +91,7 @@
 }
 
 .perfil {
+  font-weight: bold;
   gap: 20px;
   width: fit-content;
   background-color: rgba(0, 0, 0, 0.2);
@@ -102,9 +100,12 @@
   display: flex;
   align-items: center;
   backdrop-filter: blur(10px);
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   img {
     width: 60px;
     border-radius: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   }
 }
 
