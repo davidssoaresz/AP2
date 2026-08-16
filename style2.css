@@ -118,3 +118,8 @@ p span {
   text-decoration: underline;
   color: #800000;
 }
+
+.shadow-padding {
+  text-shadow: 5px 5px 5px gray;
+  padding: 2px 2px 5px 10px;
+}
