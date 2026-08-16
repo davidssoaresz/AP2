@@ -1,0 +1,8 @@
+<div class="cabecalho">
+            <img class="pfp" src="assets/andrey_pfp.jpg" alt="Foto de perfil aluno Andrey">
+            <p>Andrey Emerick Cola</p>
+        </div>
+        <div class="cabecalho">
+            <img class="pfp" src="assets/david_pfp.jpg" alt="Foto de perfil aluno David">
+            <p>David Soares de Paula</p>
+        </div>
